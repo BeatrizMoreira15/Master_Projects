@@ -1,0 +1,28 @@
+RELATIONAL MODEL
+
+
+Region(id, name[NN, UK]) {PK: id}
+
+City(id, name[NN], #region->Region) {PK: id} {UK: name, region}
+
+Address(id, street[NN], number, postal_code, city) {PK: id}
+
+Client(id, name[NN], email, phone, #address->Address) {PK: id}
+
+Service_type(id, name[NN,UK]) {PK: id}
+
+Technician(id, name[NN], email, phone, center[NN], region[NN]) {PK: id}
+
+Technician_skill(#technician->Technician, #service_type->Service_type) {PK: technician, service_type}
+
+Connection(id, type[NN], install_date[NN], meter_serial[NN], status[NN], #installer->Technician[NN], #client->Client[NN], #property->Address[NN]) {PK: id}
+
+Service_order(id, start_date[NN], end_date, notes, #technician->Technician[NN], #connection->Connection[NN], #service_type->Service_type[NN]) {PK: id}
+
+Bill(id, period_start[NN], period_end[NN], consumption[NN], amount[NN], issue_date[NN], payment_date, #connection->Connection[NN]) {PK: id}
+
+Service_failure(id, start, cause) {PK: id}
+
+City_service_failure(#city->City, #service_failure->Service_failure, end, duration, status[NN]) {PK: city, service_failure}
+
+Rating(id, rate[NN], resolved[NN], comment, #service_order->Service_order) {PK: id}

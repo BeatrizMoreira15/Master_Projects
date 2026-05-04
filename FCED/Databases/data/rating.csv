@@ -1,0 +1,36 @@
+rate,resolved,comment,service_order_id
+5,TRUE,"Excellent service, very helpful technician.",SO0045
+4,TRUE,"Fast and efficient work.",SO0187
+3,FALSE,"Took longer than expected.",SO0720
+5,TRUE,"Issue solved immediately, very satisfied.",SO1103
+2,FALSE,"Problem returned after two days.",SO0214
+4,TRUE,"Good job, communication could be better.",SO0998
+1,FALSE,"Technician didn’t show up at the scheduled time.",SO0555
+3,TRUE,"Problem solved but it took too long.",SO1342
+5,TRUE,"Excellent professionalism and attitude.",SO1780
+4,TRUE,"Efficient and quick service.",SO0643
+5,TRUE,"Very satisfied, great support.",SO1225
+2,FALSE,"Power was cut again by mistake.",SO2384
+3,TRUE,"Polite technician but one-hour delay.",SO0139
+4,TRUE,"Overall good service.",SO0811
+5,TRUE,"Highly skilled technician.",SO2310
+4,TRUE,"Problem solved without complications.",SO0246
+3,FALSE,"Did not clearly explain the issue.",SO1508
+1,FALSE,"Service was cancelled without notice.",SO0181
+5,TRUE,"Excellent technical intervention.",SO0756
+4,TRUE,"Everything went smoothly.",SO0959
+5,TRUE,"Very professional technician.",SO2003
+3,TRUE,"Acceptable, but could be faster.",SO0378
+2,FALSE,"Still without electricity.",SO2250
+5,TRUE,"Everything fixed right away, excellent!",SO1422
+4,TRUE,"Good service.",SO1084
+1,FALSE,"Problem still not solved.",SO0451
+5,TRUE,"Very happy with the service.",SO2159
+3,TRUE,"Technician was dedicated but missing materials.",SO0597
+4,TRUE,"Good service, fair price.",SO0844
+5,TRUE,"Excellent overall experience.",SO1736
+2,FALSE,"Poor installation quality.",SO0678
+3,TRUE,"Slow response but effective in the end.",SO0288
+5,TRUE,"Great customer support.",SO2439
+4,TRUE,"Perfect final result.",SO1561
+1,FALSE,"Nothing was fixed.",SO1127

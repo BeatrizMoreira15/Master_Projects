@@ -1,0 +1,309 @@
+municipality,pop,area
+Lisboa,575739,100.05
+Sintra,400947,319.23
+Vila Nova de Gaia,312984,168.46
+Porto,252687,41.42
+Cascais,222339,97.40
+Loures,209877,167.24
+Braga,203519,183.40
+Almada,183643,70.21
+Amadora,181607,23.78
+Matosinhos,181046,62.42
+Oeiras,177866,45.88
+Seixal,176883,95.50
+Gondomar,169388,131.86
+Guimarães,156513,240.95
+Odivelas,156278,26.54
+Coimbra,146899,319.40
+Maia,144664,82.99
+Vila Franca de Xira,140711,318.19
+Santa Maria da Feira,140568,215.88
+Vila Nova de Famalicão,136704,201.59
+Leiria,136006,565.09
+Setúbal,124339,230.33
+Barcelos,116959,378.90
+Funchal,108129,76.14
+Viseu,103502,507.10
+Valongo,101464,75.12
+Mafra,91248,291.66
+Torres Vedras,89526,407.15
+Aveiro,88154,197.58
+Viana do Castelo,86975,319.02
+Paredes,86560,156.76
+Vila do Conde,85871,149.03
+Barreiro,81131,36.39
+Loulé,75764,763.67
+Palmela,74462,465.12
+Penafiel,70421,212.24
+Moita,70399,55.26
+Faro,70347,202.57
+Ponta Delgada,69038,232.99
+Póvoa de Varzim,68459,82.21
+Santo Tirso,67713,136.60
+Oliveira de Azeméis,67471,161.10
+Portimão,64466,182.06
+Santarém,61664,552.54
+Figueira da Foz,61397,379.05
+Montijo,60612,348.62
+Alcobaça,57973,408.14
+Ovar,57680,147.70
+Sesimbra,56576,195.47
+Paços de Ferreira,56071,70.99
+Felgueiras,55223,115.74
+Caldas da Rainha,55206,255.69
+Évora,53908,1307.08
+Castelo Branco,53342,1438.19
+Pombal,52573,626.00
+Amarante,52169,301.33
+Vila Real,50043,378.80
+Marco de Canaveses,49501,201.89
+Alenquer,49474,304.22
+Albufeira,48807,140.66
+Vila Verde,48701,228.67
+Lousada,48652,96.08
+Fafe,48420,219.08
+Águeda,47727,335.27
+Ourém,46988,416.68
+Covilhã,46606,555.60
+Olhão,45452,130.86
+Santa Cruz,44816,81.50
+Ílhavo,43210,73.48
+Marinha Grande,41773,187.25
+Ponte de Lima,41066,320.25
+Silves,40309,680.06
+Trofa,40294,72.02
+Guarda,40046,712.10
+Esposende,37722,95.41
+Chaves,32322,591.23
+Tomar,37039,351.20
+Bragança,35581,1173.57
+Cantanhede,35399,390.88
+Lagos,35241,212.99
+Torres Novas,34986,270.00
+Beja,33954,1146.44
+Odemira,33866,1720.60
+Abrantes,33770,714.69
+Angra do Heroísmo,33701,239.00
+Câmara de Lobos,33243,52.14
+Benavente,33131,521.38
+Espinho,32736,21.06
+Ribeira Grande,32397,180.15
+Lourinhã,28978,147.17
+Anadia,28512,216.63
+Santiago do Cacém,28294,1059.69
+Tavira,28280,606.97
+Peniche,27792,77.55
+Estarreja,27474,108.17
+Fundão,27285,700.20
+Albergaria-a-Velha,26171,158.83
+Tondela,25957,371.22
+Oliveira do Bairro,25779,87.32
+Lagoa,25535,88.25
+Vagos,25167,164.92
+Montemor-o-Velho,25131,228.96
+Cartaxo,24711,158.17
+Vizela,24688,24.70
+Porto de Mós,24310,261.83
+São João da Madeira,24247,7.94
+Lamego,24037,165.42
+Salvaterra de Magos,23827,243.93
+Azambuja,23448,262.66
+Almeirim,23087,222.12
+Póvoa de Lanhoso,22931,134.65
+Rio Maior,22678,272.76
+Entroncamento,22604,13.73
+Portalegre,21754,447.14
+Seia,21410,435.69
+Mirandela,21344,658.96
+Vale de Cambra,21239,147.33
+Arouca,20826,329.11
+Arcos de Valdevez,20819,447.60
+Alcochete,20462,128.36
+Elvas,20325,631.29
+Mealhada,20023,110.66
+Vila da Praia da Vitória,19862,161.27
+Amares,19782,81.95
+Machico,19679,68.33
+Oliveira do Hospital,19610,234.52
+Vila Real de Santo António,19546,61.25
+Mangualde,18766,219.26
+Monção,18004,211.31
+Condeixa-a-Nova,17882,138.67
+Lousã,17662,138.40
+Celorico de Basto,17637,181.07
+Soure,17302,265.06
+Coruche,17298,1115.72
+Cinfães,17293,239.29
+Baião,17088,174.53
+Batalha,16894,103.42
+Caminha,16604,136.52
+Montemor-o-Novo,15912,1232.97
+Nazaré,15856,82.43
+Arruda dos Vinhos,15752,77.96
+Cabeceiras de Basto,15538,241.82
+Castelo de Paiva,15395,115.01
+São Pedro do Sul,15296,348.95
+Lagoa (Açores),15130,45.59
+Ponte de Sor,15123,839.71
+Sertã,14983,446.73
+Sines,14796,203.30
+Cadaval,14711,174.89
+Valpaços,14532,548.74
+Horta,14466,173.06
+Valença,14297,117.13
+Peso da Régua,14275,94.86
+Bombarral,14272,91.29
+Macedo de Cavaleiros,14253,699.14
+Grândola,14226,825.94
+Castro daire,13790,379.04
+Óbidos,13720,141.55
+Serpa,13673,1105.63
+Nelas,13508,125.71
+Moura,13331,958.46
+Ribeira Brava,13322,65.41
+Penacova,12951,216.73
+Alcanena,12876,127.33
+Mira,12720,124.03
+Estremoz,12482,513.80
+Gouveia,12301,300.61
+Miranda do Corvo,12269,126.38
+Sobral de Monte Agraço,12214,52.10
+Vieira do Minho,12067,216.44
+Ansião,11930,176.09
+Vila Pouca de Aguiar,11819,437.07
+Tábua,11784,199.79
+São Brás de Alportel,11730,153.37
+Vendas Novas,11591,222.39
+Arganil,11447,332.84
+Calheta,11377,111.50
+Murtosa,11360,73.09
+Sabugal,11290,822.70
+Sátão,11265,201.94
+Ponte da Barca,11210,182.11
+Alcácer do Sal,11036,1499.87
+Sever do Vouga,11023,129.88
+Santa Comba Dão,11022,111.95
+Vila Franca do Campo,10368,77.97
+Alijó,10296,297.60
+Oliveira de Frades,9840,145.35
+Reguengos de Monsaraz,9840,464.00
+Vouzela,9807,193.69
+Moimenta da Beira,9776,219.97
+Resende,9628,123.35
+Vila Nova de Cerveira,9425,108.47
+Carregal do Sal,9261,116.89
+Mortágua,9104,251.18
+Montalegre,9100,805.46
+Aljustrel,8923,458.47
+Ponta do Sol,8920,46.19
+Paredes de Coura,8688,138.19
+Chamusca,8549,746.01
+Idanha-a-Nova,8541,1416.34
+Trancoso,8402,361.52
+Mogadouro,8169,760.65
+Ferreira do Zêzere,8115,190.38
+Vila Nova da Barquinha,8032,49.53
+Ferreira do Alentejo,7902,648.25
+Campo Maior,7877,247.20
+Pinhel,7817,484.52
+Tarouca,7704,100.08
+Melgaço,7557,238.25
+Alpiarça,7493,95.36
+Penalva do Castelo,7414,134.34
+Vinhais,7355,694.76
+Vila Viçosa,7267,194.86
+Vila Nova de Poiares,7261,84.45
+Proença-a-Nova,7102,395.40
+Castro Marim,6983,300.84
+Castro Verde,6946,569.44
+Arraiolos,6870,683.75
+São João da Pesqueira,6743,266.11
+Almodôvar,6652,777.88
+Torre de Moncorvo,6638,531.56
+Celorico da Beira,6635,247.22
+Madalena,6559,147.12
+Santana,6516,95.56
+Aljezur,6501,323.50
+Alvaiázere,6479,160.48
+Mação,6399,400.00
+Mondim de Basto,6394,172.08
+Vila Nova de Foz Côa,6383,398.15
+Borba,6378,145.19
+Terras de Bouro,6356,277.46
+Redondo,6290,369.51
+Belmonte,6265,118.76
+Miranda do douro,6220,487.18
+Mértola,6066,1292.87
+Vila do Bispo,6048,179.06
+Vila Flor,6022,265.81
+Santa Marta de Penaguião,5949,69.28
+Povoação,5883,106.41
+Ribeira de Pena,5840,217.46
+Sernancelhe,5818,228.61
+Portel,5734,601.01
+Porto Santo,5717,42.59
+Penela,5714,134.80
+Armamar,5635,117.24
+Almeida,5634,517.98
+Nisa,5633,575.68
+Sabrosa,5627,156.92
+Viana do Alentejo,5592,393.67
+Vila do Porto,5504,96.89
+Golegã,5488,84.32
+Carrazeda de Ansiães,5368,279.24
+Monchique,5337,395.30
+Aguiar da Beira,5326,206.77
+Figueiró dos Vinhos,5325,173.44
+Vidigueira,5261,316.61
+Murça,5229,189.37
+São Vicente,5123,78.82
+Tabuaço,5031,133.87
+Figueira de Castelo Rodrigo,5021,508.57
+Alandroal,4973,542.68
+Velas,4949,117.38
+Oleiros,4912,471.09
+Vila Nova de Paiva,4836,175.53
+Boticas,4832,321.96
+Penamacor,4821,563.71
+Ourique,4785,663.31
+Mêda,4594,286.05
+Cuba,4469,172.09
+Nordeste,4439,101.47
+Sousel,4403,279.32
+Fornos de Algodres,4400,131.45
+Lajes do Pico,4398,155.31
+Pampilhosa da Serra,4182,396.46
+Alfândega da Fé,4178,321.95
+Vimioso,4174,481.59
+Mora,4161,443.95
+Santa Cruz da Graciosa,4070,60.66
+Constância,4020,80.37
+Góis,3822,263.30
+Avis,3759,605.97
+Pedrógão Grande,3718,128.75
+Sardoal,3638,92.15
+Vila Velha de Ródão,3577,329.91
+Calheta (Açores),3486,126.26
+São Roque do Pico,3461,142.36
+Vila de Rei,3455,191.55
+Mesão Frio,3449,26.65
+Gavião,3263,294.59
+Crato,3249,398.07
+Alter do Chão,3222,362.07
+Castelo de Vide,3180,264.91
+Freixo de Espada À Cinta,3058,244.14
+Marvão,3020,154.90
+Monforte,3017,420.25
+Fronteira,2974,248.60
+Manteigas,2951,121.98
+Penedono,2808,133.71
+Arronches,2767,314.65
+Castanheira de Pêra,2756,66.77
+Porto Moniz,2598,82.93
+Mourão,2432,278.63
+Alcoutim,2401,575.36
+Alvito,2303,264.85
+Santa Cruz das Flores,2114,70.91
+Lajes das Flores,1456,70.05
+Barrancos,1415,168.42
+Corvo,437,17.11

@@ -1,0 +1,4 @@
+Instance,Size,JSP Makespan,OSP Makespan,Reduction (%)
+ta01,15x15,1231,977,20.63
+ta02,15x15,1244,942,24.28
+ta03,15x15,1218,921,24.38

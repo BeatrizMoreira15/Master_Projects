@@ -1,0 +1,332 @@
+﻿name,region_name
+Vila Verde,Braga
+Velas,Açores
+São Brás de Alportel,Faro
+Vila Nova da Barquinha,Santarém
+Vila Franca de Xira,Lisboa
+Vinhais,Bragança
+Monção,Viana do Castelo
+Braga,Braga
+Vila Nova de Gaia,Porto
+Viana do Alentejo,Évora
+Arcos de Valdevez,Viana do Castelo
+Vila Nova de Cerveira,Viana do Castelo
+Guarda,Guarda
+Arouca,Aveiro
+Vale de Cambra,Aveiro
+Barreiro,Setúbal
+Grândola,Setúbal
+Bragança,Bragança
+Tavira,Faro
+Alijó,Vila Real
+Golegã,Santarém
+Porto Santo,Madeira
+Ribeira de Pena,Vila Real
+Marco de Canaveses,Porto
+Almodôvar,Beja
+Alenquer,Lisboa
+Amarante,Porto
+Castelo Branco,Castelo Branco
+Manteigas,Guarda
+Lousada,Porto
+São João da Madeira,Aveiro
+Benavente,Santarém
+Oeiras,Lisboa
+Porto Moniz,Madeira
+Proença-a-Nova,Castelo Branco
+Odivelas,Lisboa
+Lamego,Viseu
+Lisboa,Lisboa
+Lajes das Flores,Açores
+Funchal,Madeira
+Torre de Moncorvo,Bragança
+Armamar,Viseu
+Cantanhede,Coimbra
+Marvão,Portalegre
+Entroncamento,Santarém
+Porto de Mós,Leiria
+Vendas Novas,Évora
+Pedrógão Grande,Leiria
+Maia,Porto
+Castelo de Vide,Portalegre
+Fafe,Braga
+Sines,Setúbal
+Barcelos,Braga
+Olhão,Faro
+Penafiel,Porto
+Ourique,Beja
+Portimão,Faro
+Marinha Grande,Leiria
+Santa Cruz,Madeira
+Santa Cruz das Flores,Açores
+Arronches,Portalegre
+Monforte,Portalegre
+Vila Velha de Ródão,Castelo Branco
+Mesão Frio,Vila Real
+Penacova,Coimbra
+Santa Comba Dão,Viseu
+Vouzela,Viseu
+Serpa,Beja
+Mogadouro,Bragança
+Oliveira do Hospital,Coimbra
+Arraiolos,Évora
+Lagoa,Faro
+Peso da Régua,Vila Real
+Santarém,Santarém
+Vila Nova de Poiares,Coimbra
+Vizela,Braga
+Coruche,Santarém
+Reguengos de Monsaraz,Évora
+Figueira da Foz,Coimbra
+Ansião,Leiria
+São Vicente,Madeira
+Sousel,Portalegre
+Sobral de Monte Agraço,Lisboa
+Mangualde,Viseu
+Freixo de Espada à Cinta,Bragança
+Valongo,Porto
+Gondomar,Porto
+Murtosa,Aveiro
+Montemor-o-Novo,Évora
+Alandroal,Évora
+Nelas,Viseu
+Ferreira do Zêzere,Santarém
+Valpaços,Vila Real
+Arganil,Coimbra
+Idanha-a-Nova,Castelo Branco
+Albufeira,Faro
+Vila Franca do Campo,Açores
+Estarreja,Aveiro
+Amares,Braga
+Penedono,Viseu
+Madalena,Açores
+Palmela,Setúbal
+Alfândega da Fé,Bragança
+Monchique,Faro
+Santa Marta de Penaguião,Vila Real
+Alcochete,Setúbal
+Alvito,Beja
+Lousã,Coimbra
+Mira,Coimbra
+Sesimbra,Setúbal
+Ponte da Barca,Viana do Castelo
+Boticas,Vila Real
+Paredes,Porto
+Alpiarça,Santarém
+Nordeste,Açores
+Silves,Faro
+Seixal,Setúbal
+Pampilhosa da Serra,Coimbra
+Leiria,Leiria
+Vila Real,Vila Real
+Alcanena,Santarém
+Tondela,Viseu
+Alcoutim,Faro
+Oleiros,Castelo Branco
+Almeirim,Santarém
+Cartaxo,Santarém
+Figueiró dos Vinhos,Leiria
+Fronteira,Portalegre
+Soure,Coimbra
+Montemor-o-Velho,Coimbra
+Vila Nova de Paiva,Viseu
+Póvoa de Varzim,Porto
+Vila Flor,Bragança
+Vila do Porto,Açores
+Sertã,Castelo Branco
+Terras de Bouro,Braga
+Salvaterra de Magos,Santarém
+Horta,Açores
+Ílhavo,Aveiro
+Moimenta da Beira,Viseu
+Trofa,Porto
+Vagos,Aveiro
+Torres Vedras,Lisboa
+Rio Maior,Santarém
+Viana do Castelo,Viana do Castelo
+Machico,Madeira
+Cinfães,Viseu
+Beja,Beja
+Cadaval,Lisboa
+Caldas da Rainha,Leiria
+Angra do Heroísmo,Açores
+Borba,Évora
+Campo Maior,Portalegre
+Celorico de Basto,Braga
+Torres Novas,Santarém
+Santiago do Cacém,Setúbal
+Peniche,Leiria
+Aljustrel,Beja
+Castro Daire,Viseu
+Condeixa-a-Nova,Coimbra
+Macedo de Cavaleiros,Bragança
+Cuba,Beja
+São Roque do Pico,Açores
+Almada,Setúbal
+Batalha,Leiria
+Barrancos,Beja
+São João da Pesqueira,Viseu
+Viseu,Viseu
+Santa Maria da Feira,Aveiro
+Aljezur,Faro
+Castelo de Paiva,Aveiro
+Bombarral,Leiria
+Amadora,Lisboa
+Esposende,Braga
+Felgueiras,Porto
+Ponta do Sol,Madeira
+Vidigueira,Beja
+Sardoal,Santarém
+Baião,Porto
+Loulé,Faro
+Sernancelhe,Viseu
+Fundão,Castelo Branco
+Anadia,Aveiro
+Tarouca,Viseu
+Cascais,Lisboa
+Calheta de São Jorge,Açores
+Sabugal,Guarda
+Elvas,Portalegre
+Penela,Coimbra
+Mora,Évora
+Miranda do Corvo,Coimbra
+Tábua,Coimbra
+Santo Tirso,Porto
+Aveiro,Aveiro
+Carregal do Sal,Viseu
+Porto,Porto
+Trancoso,Guarda
+Castro Marim,Faro
+Vila Nova de Famalicão,Braga
+Carrazeda de Ansiães,Bragança
+Guimarães,Braga
+Vila Real de Santo António,Faro
+Moura,Beja
+Póvoa de Lanhoso,Braga
+Figueira de Castelo Rodrigo,Guarda
+Sintra,Lisboa
+Alvaiázere,Leiria
+Lagos,Faro
+Ribeira Brava,Madeira
+Mêda,Guarda
+Almeida,Guarda
+Águeda,Aveiro
+Sever do Vouga,Aveiro
+Celorico da Beira,Guarda
+Mourão,Évora
+Setúbal,Setúbal
+Vila Viçosa,Évora
+Vieira do Minho,Braga
+Azambuja,Lisboa
+Ribeira Grande,Açores
+Tomar,Santarém
+Melgaço,Viana do Castelo
+Murça,Vila Real
+Aguiar da Beira,Guarda
+Óbidos,Leiria
+Ponte de Sor,Portalegre
+Mortágua,Viseu
+Nazaré,Leiria
+Santa Cruz da Graciosa,Açores
+São Pedro do Sul,Viseu
+Paredes de Coura,Viana do Castelo
+Faro,Faro
+Tabuaço,Viseu
+Abrantes,Santarém
+Lagoa,Açores
+Mondim de Basto,Vila Real
+Covilhã,Castelo Branco
+Calheta,Madeira
+Lourinhã,Lisboa
+Miranda do Douro,Bragança
+Crato,Portalegre
+Portel,Évora
+Portalegre,Portalegre
+Mação,Santarém
+Gouveia,Guarda
+Moita,Setúbal
+Castanheira de Pêra,Leiria
+Santana,Madeira
+Valença,Viana do Castelo
+Vila do Bispo,Faro
+Belmonte,Castelo Branco
+Corvo,Açores
+Povoação,Açores
+Penalva do Castelo,Viseu
+Mirandela,Bragança
+Odemira,Beja
+Praia da Vitória,Açores
+Castro Verde,Beja
+Vila Nova de Foz Côa,Guarda
+Oliveira de Azeméis,Aveiro
+Chaves,Vila Real
+Avis,Portalegre
+Chamusca,Santarém
+Vila do Conde,Porto
+Mafra,Lisboa
+Oliveira de Frades,Viseu
+Vila de Rei,Castelo Branco
+Oliveira do Bairro,Aveiro
+Montijo,Setúbal
+Ovar,Aveiro
+Ferreira do Alentejo,Beja
+Ponte de Lima,Viana do Castelo
+Seia,Guarda
+Nisa,Portalegre
+Gavião,Portalegre
+Redondo,Évora
+Resende,Viseu
+Lajes do Pico,Açores
+Alcobaça,Leiria
+Loures,Lisboa
+Coimbra,Coimbra
+Évora,Évora
+Câmara de Lobos,Madeira
+Montalegre,Vila Real
+Matosinhos,Porto
+Penamacor,Castelo Branco
+Estremoz,Évora
+Constância,Santarém
+Ourém,Santarém
+Fornos de Algodres,Guarda
+Espinho,Aveiro
+Pinhel,Guarda
+Vimioso,Bragança
+Alter do Chão,Portalegre
+Albergaria-a-Velha,Aveiro
+Cabeceiras de Basto,Braga
+Paços de Ferreira,Porto
+Sabrosa,Vila Real
+Arruda dos Vinhos,Lisboa
+Mértola,Beja
+Alcácer do Sal,Setúbal
+Góis,Coimbra
+Mealhada,Aveiro
+Sátão,Viseu
+Pombal,Leiria
+Caminha,Viana do Castelo
+Ponta Delgada,Açores
+Vila Pouca de Aguiar,Vila Real
+Vila Nova de Santo André,Setúbal
+Póvoa de Santa Iria,Lisboa
+Rio Tinto,Porto
+Fiães,Aveiro
+Lixa,Porto
+Queluz,Lisboa
+Lourosa,Aveiro
+Freamunde,Porto
+Gafanha da Nazaré,Aveiro
+Fátima,Leiria
+Sacavém,Lisboa
+São Mamede de Infesta,Porto
+Costa da Caparica,Setúbal
+Rebordosa,Porto
+Alverca do Ribatejo,Lisboa
+Quarteira,Faro
+Ermesinde,Porto
+Esmoriz,Aveiro
+Amora,Setúbal
+Agualva-Cacém,Lisboa
+Gandra,Porto
+São Salvador de Lordelo,Porto
+Caniço,Madeira
